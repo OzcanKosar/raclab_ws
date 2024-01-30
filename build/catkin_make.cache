@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/ozcan/raclab_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ozcan/raclab_ws/install -G Unix Makefiles
