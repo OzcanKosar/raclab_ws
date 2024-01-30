@@ -41,3 +41,10 @@ cd raclab_ws
 ``` bash
 catkin_make
 ```
+- Add the following to the .bashrc file.
+
+``` bash
+export TURTLEBOT3_MODEL=waffle
+source ~/catkin_ws/devel/setup.bash
+```
+
